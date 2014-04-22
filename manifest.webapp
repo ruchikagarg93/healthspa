@@ -1,0 +1,15 @@
+{
+	"version":"1.0",
+	"name":"Health Spa",
+	"description":"It offers information about various spa types & spa products.",
+	"launch_path":"/index.html",
+	"icons":{
+		"128":"icons/icon-128.png",
+		"60":"icons/icon-60.png"
+	},
+	"developer":{
+		"name":"Ruchika Garg"
+	},
+	"default_local":"en"
+
+}
